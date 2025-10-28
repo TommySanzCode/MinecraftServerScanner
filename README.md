@@ -1,7 +1,5 @@
 # Minecraft Server Scanner
 
-Fun little project - full transparency made with help using Windsurf
-
 A Windows application that scans for Minecraft servers in bulk on your local network.
 
 ## Features
