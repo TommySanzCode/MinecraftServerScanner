@@ -96,7 +96,8 @@ python -m pip check
 python -m py_compile minecraft_scanner.py
 python -m pytest
 ```
-
+## Download Here
+https://github.com/TommySanzCode/MinecraftServerScanner/releases/tag/v2.2.0-alpha
 ## Notes
 
 - Only scan networks you own or have permission to test.
